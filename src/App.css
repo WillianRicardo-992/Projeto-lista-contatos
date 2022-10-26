@@ -1,0 +1,14 @@
+/*App*/
+body {
+background-color:rgb(24, 24, 97); ;
+}
+
+.titulo {
+    padding: 10px;
+    color: white;
+}
+
+.formulario {
+    background-color: rgb(17, 17, 150);
+    color: white;
+}
